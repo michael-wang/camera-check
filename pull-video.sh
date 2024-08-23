@@ -1,0 +1,1 @@
+adb -d shell "run-as com.example.camera_check cat /data/user/0/com.example.camera_check/cache/video.mp4" > video.mp4
